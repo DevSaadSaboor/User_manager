@@ -48,14 +48,13 @@ user-management-system/
 
 1. Clone the repository:
 git clone https://github.com/DevSaadSaboor/User_manager.git
-Navigate to the project folder:
-
 
 2. Navigate to the project folder:
 
 cd User_manager
 
 3. Run the program:
+   
 main.py
 
 🧠 What I Learned
